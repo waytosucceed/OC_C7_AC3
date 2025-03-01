@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Cindy bought 8 packs of stickers for $24. What is the cost of 1 pack of stickers?",
+    "options": [
+      "$2",
+      "$3",
+      "$4",
+      "$5"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Ben and Cindy bought 9 notebooks for $45. What is the cost of 1 notebook?",
+    "options": [
+      "$2",
+      "$3",
+      "$4",
+      "$5"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Cindy bought 9 erasers for $36. What is the cost of 1 eraser?",
+    "options": [
+      "$4",
+      "$6",
+      "$8",
+      "$10"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If 1 backpack costs $9, what is the cost of 6 backpacks?",
+    "options": [
+      "$45",
+      "$48",
+      "$52",
+      "$54"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "If 1 water bottle costs $14, what is the cost of 7 water bottles?",
+    "options": [
+      "$98",
+      "$88",
+      "$80",
+      "$78"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "If 1 set of crayons costs $4, what is the cost of 13 sets of crayons?",
+    "options": [
+      "$50",
+      "$52",
+      "$54",
+      "$56"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Ben saw that 10 lunchboxes cost $60. What is the cost of 1 lunchbox?",
+    "options": [
+      "$4",
+      "$5",
+      "$6",
+      "$7"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8",
+    "question": "They purchased 11 glue sticks for $55. What is the cost of 1 glue stick?",
+    "options": [
+      "$3",
+      "$4",
+      "$5",
+      "$6"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "If 1 ruler costs $3, what is the cost of 12 rulers?",
+    "options": [
+      "$30",
+      "$32",
+      "$34",
+      "$36"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Cindy bought 15 colored pencils for $60. What is the cost of 1 colored pencil?",
+    "options": [
+      "$4",
+      "$6",
+      "$5",
+      "$3"
+    ],
+    "correct": 0
+  }
+]
